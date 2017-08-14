@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Pocket Portal VR/Demo/Scenes/ARKit_underwater.unity
+  isLoaded: 1
+  isActive: 1

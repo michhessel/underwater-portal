@@ -43,6 +43,7 @@
 <type fullname="Activatefog" preserve="all"/>
 <type fullname="AnimatedProjector" preserve="all"/>
 <type fullname="fogStart" preserve="all"/>
+<type fullname="PlaySoundOnTouch" preserve="all"/>
 <type fullname="randomStartAnim" preserve="all"/>
 <type fullname="ControllerGrabObject" preserve="all"/>
 <type fullname="GearGrabObject" preserve="all"/>
